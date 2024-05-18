@@ -53,8 +53,8 @@ passwordResetController.requestReset = async (req, res) => {
     await sendResetEmail(email, token);
     return HttpResponse.OK(res, 'Correo de restablecimiento enviado', { email });
   } catch (error) {
-    console.error('Error al solicitar el restablecimiento de contraseña:', error);
-    return HttpResponse.InternalServerError(res, 'INTERNAL_SERVER_ERROR');
+    console.error("Error al crear el usuario:", error.message);
+    res.redirect("/log");
   }
 };
 

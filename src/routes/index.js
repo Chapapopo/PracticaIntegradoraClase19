@@ -9,6 +9,7 @@ import logoutRoutes from './logout.Routes.js';
 import chatRoutes from './chat.Routes.js';
 import mockingRoutes from './mocking.Routes.js';
 import makeRoutes from './make.Routes.js';
+import passwordResetRoutes from './passwordReset.Routes.js';
 import Routes from './Routes.js'; // Importa las rutas desde Routes.js
 
 export {
@@ -23,5 +24,6 @@ export {
   chatRoutes,
   makeRoutes,
   mockingRoutes,
+  passwordResetRoutes,
   Routes
 };

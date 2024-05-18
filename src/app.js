@@ -12,10 +12,10 @@ import { Strategy as GitHubStrategy } from 'passport-github2';
 import { Server } from "socket.io";
 import bcrypt from 'bcryptjs';
 import Users from './model/user.model.js'; // Importa el modelo User
-import { productosRoutes, cartRoutes, currentRoutes, authRoutes, logRoutes, loginRoutes, registerRoutes, logoutRoutes, Routes, chatRoutes, makeRoutes, mockingRoutes } from './routes/index.js';
+import { passwordResetRoutes, productosRoutes, cartRoutes, currentRoutes, authRoutes, logRoutes, loginRoutes, registerRoutes, logoutRoutes, Routes, chatRoutes, makeRoutes, mockingRoutes } from './routes/index.js';
 import Message from './model/message.model.js'; // Importa el modelo Message
-import winston from "winston";
-import passwordResetRoutes from './routes/passwordReset.Routes.js';
+import winston from "winston";/* 
+import passwordResetRoutes from './routes/passwordReset.Routes.js'; */
 
 config();//
 
