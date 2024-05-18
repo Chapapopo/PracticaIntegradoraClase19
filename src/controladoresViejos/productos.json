@@ -11,7 +11,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "u",
-      "imagen": "Top.jpg"
+      "imagen": "Top.jpg",
+      "owner": "admin"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "TopMix.jpg"
+      "imagen": "TopMix.jpg",
+      "owner": "admin"
     },
     {
       "id": 3,
@@ -37,7 +39,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "TopPride.jpg"
+      "imagen": "TopPride.jpg",
+      "owner": "admin"
     },
     {
       "id": 4,
@@ -50,7 +53,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "u",
-      "imagen": "Brasil.jpg"
+      "imagen": "Brasil.jpg",
+      "owner": "admin"
     },
     {
       "id": 5,
@@ -63,7 +67,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "BrasilLogo.jpg"
+      "imagen": "BrasilLogo.jpg",
+      "owner": "admin"
     },
     {
       "id": 6,
@@ -76,7 +81,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "BrasilMix.jpg"
+      "imagen": "BrasilMix.jpg",
+      "owner": "admin"
     },
     {
       "id": 7,
@@ -89,7 +95,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "BrasilLayer.jpg"
+      "imagen": "BrasilLayer.jpg",
+      "owner": "admin"
     },
     {
       "id": 8,
@@ -102,7 +109,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "StarWars.jpg"
+      "imagen": "StarWars.jpg",
+      "owner": "admin"
     },
     {
       "id": 9,
@@ -115,7 +123,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "TopMarvel.jpg"
+      "imagen": "TopMarvel.jpg",
+      "owner": "admin"
     },
     {
       "id": 10,
@@ -128,7 +137,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "HPoter.jpg"
+      "imagen": "HPoter.jpg",
+      "owner": "admin"
     },
     {
       "id": 11,
@@ -141,7 +151,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "Dc.jpg"
+      "imagen": "Dc.jpg",
+      "owner": "admin"
     },
     {
       "id": 12,
@@ -154,7 +165,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "Lgmania.jpg"
+      "imagen": "Lgmania.jpg",
+      "owner": "admin"
     },
     {
       "id": 13,
@@ -167,7 +179,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "LgmaniaHit.jpg"
+      "imagen": "LgmaniaHit.jpg",
+      "owner": "admin"
     },
     {
       "id": 14,
@@ -180,7 +193,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "LgmaniaMidTec.jpg"
+      "imagen": "LgmaniaMidTec.jpg",
+      "owner": "admin"
     },
     {
       "id": 15,
@@ -193,7 +207,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "Splice.jpg"
+      "imagen": "Splice.jpg",
+      "owner": "admin"
     },
     {
       "id": 16,
@@ -206,7 +221,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "TopBasic.jpg"
+      "imagen": "TopBasic.jpg",
+      "owner": "admin"
     },
     {
       "id": 17,
@@ -219,7 +235,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "Aloha.jpg"
+      "imagen": "Aloha.jpg",
+      "owner": "admin"
     },
     {
       "id": 18,
@@ -232,7 +249,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "TopMaxBasic.jpg"
+      "imagen": "TopMaxBasic.jpg",
+      "owner": "admin"
     },
     {
       "id": 19,
@@ -245,7 +263,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "TopMaxBasicStrett.jpg"
+      "imagen": "TopMaxBasicStrett.jpg",
+      "owner": "admin"
     },
     {
       "id": 20,
@@ -258,7 +277,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "Nauticas.jpg"
+      "imagen": "Nauticas.jpg",
+      "owner": "admin"
     },
     {
       "id": 21,
@@ -271,7 +291,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "Hype.jpg"
+      "imagen": "Hype.jpg",
+      "owner": "admin"
     },
     {
       "id": 22,
@@ -284,7 +305,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "Trend.jpg"
+      "imagen": "Trend.jpg",
+      "owner": "admin"
     },
     {
       "id": 23,
@@ -297,7 +319,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "TopBasicEstampadas.jpg"
+      "imagen": "TopBasicEstampadas.jpg",
+      "owner": "admin"
     },
     {
       "id": 24,
@@ -310,7 +333,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "Camufladas.jpg"
+      "imagen": "Camufladas.jpg",
+      "owner": "admin"
     },
     {
       "id": 25,
@@ -323,7 +347,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "Simpson.jpg"
+      "imagen": "Simpson.jpg",
+      "owner": "admin"
     },
     {
       "id": 26,
@@ -336,7 +361,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "Dual.jpg"
+      "imagen": "Dual.jpg",
+      "owner": "admin"
     },
     {
       "id": 27,
@@ -349,7 +375,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "SliceTelearana.jpg"
+      "imagen": "SliceTelearana.jpg",
+      "owner": "admin"
     },
     {
       "id": 28,
@@ -362,7 +389,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "HybridFree.jpg"
+      "imagen": "HybridFree.jpg",
+      "owner": "admin"
     },
     {
       "id": 29,
@@ -375,7 +403,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "HybridCity.jpg"
+      "imagen": "HybridCity.jpg",
+      "owner": "admin"
     },
     {
       "id": 30,
@@ -388,7 +417,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "UrbanWay.jpg"
+      "imagen": "UrbanWay.jpg",
+      "owner": "admin"
     },
     {
       "id": 31,
@@ -401,7 +431,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "Power.jpg"
+      "imagen": "Power.jpg",
+      "owner": "admin"
     },
     {
       "id": 32,
@@ -414,7 +445,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "PowerLight.jpg"
+      "imagen": "PowerLight.jpg",
+      "owner": "admin"
     },
     {
       "id": 33,
@@ -427,7 +459,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "Fusion.jpg"
+      "imagen": "Fusion.jpg",
+      "owner": "admin"
     },
     {
       "id": 34,
@@ -440,7 +473,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "h",
-      "imagen": "Surf.jpg"
+      "imagen": "Surf.jpg",
+      "owner": "admin"
     },
     {
       "id": 35,
@@ -453,7 +487,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "Swett.jpg"
+      "imagen": "Swett.jpg",
+      "owner": "admin"
     },
     {
       "id": 36,
@@ -466,7 +501,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "Fantacy.jpg"
+      "imagen": "Fantacy.jpg",
+      "owner": "admin"
     },
     {
       "id": 37,
@@ -479,7 +515,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "FantacyEstampada.jpg"
+      "imagen": "FantacyEstampada.jpg",
+      "owner": "admin"
     },
     {
       "id": 38,
@@ -492,7 +529,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "Slim.jpg"
+      "imagen": "Slim.jpg",
+      "owner": "admin"
     },
     {
       "id": 39,
@@ -505,7 +543,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "SlimLogomet.jpg"
+      "imagen": "SlimLogomet.jpg",
+      "owner": "admin"
     },
     {
       "id": 40,
@@ -518,7 +557,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "TopBolt.jpg"
+      "imagen": "TopBolt.jpg",
+      "owner": "admin"
     },
     {
       "id": 41,
@@ -531,7 +571,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "SlimOrganic.jpg"
+      "imagen": "SlimOrganic.jpg",
+      "owner": "admin"
     },
     {
       "id": 42,
@@ -544,7 +585,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "SlimAnimal.jpg"
+      "imagen": "SlimAnimal.jpg",
+      "owner": "admin"
     },
     {
       "id": 43,
@@ -557,7 +599,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "SlimNauticas.jpg"
+      "imagen": "SlimNauticas.jpg",
+      "owner": "admin"
     },
     {
       "id": 44,
@@ -570,7 +613,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "SlimFloral.jpg"
+      "imagen": "SlimFloral.jpg",
+      "owner": "admin"
     },
     {
       "id": 45,
@@ -583,7 +627,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "SlimGloss.jpg"
+      "imagen": "SlimGloss.jpg",
+      "owner": "admin"
     },
     {
       "id": 46,
@@ -596,7 +641,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "SlimTropical.jpg"
+      "imagen": "SlimTropical.jpg",
+      "owner": "admin"
     },
     {
       "id": 47,
@@ -609,7 +655,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "SlimGliteer.jpg"
+      "imagen": "SlimGliteer.jpg",
+      "owner": "admin"
     },
     {
       "id": 48,
@@ -622,7 +669,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "SlimPlatafor.jpg"
+      "imagen": "SlimPlatafor.jpg",
+      "owner": "admin"
     },
     {
       "id": 49,
@@ -635,7 +683,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "FlashUrban.jpg"
+      "imagen": "FlashUrban.jpg",
+      "owner": "admin"
     },
     {
       "id": 50,
@@ -648,7 +697,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "LunaPremium.jpg"
+      "imagen": "LunaPremium.jpg",
+      "owner": "admin"
     },
     {
       "id": 51,
@@ -661,7 +711,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "YouMetalic.jpg"
+      "imagen": "YouMetalic.jpg",
+      "owner": "admin"
     },
     {
       "id": 52,
@@ -674,7 +725,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "YouAngra.jpg"
+      "imagen": "YouAngra.jpg",
+      "owner": "admin"
     },
     {
       "id": 53,
@@ -687,7 +739,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "YouAngraWild.jpg"
+      "imagen": "YouAngraWild.jpg",
+      "owner": "admin"
     },
     {
       "id": 54,
@@ -700,7 +753,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "YouParaty.jpg"
+      "imagen": "YouParaty.jpg",
+      "owner": "admin"
     },
     {
       "id": 55,
@@ -713,7 +767,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "YouMalta.jpg"
+      "imagen": "YouMalta.jpg",
+      "owner": "admin"
     },
     {
       "id": 56,
@@ -726,7 +781,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "YouRio.jpg"
+      "imagen": "YouRio.jpg",
+      "owner": "admin"
     },
     {
       "id": 57,
@@ -739,7 +795,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "Weedgge.jpg"
+      "imagen": "Weedgge.jpg",
+      "owner": "admin"
     },
     {
       "id": 58,
@@ -752,7 +809,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "PlatafSparkel.jpg"
+      "imagen": "PlatafSparkel.jpg",
+      "owner": "admin"
     },
     {
       "id": 59,
@@ -765,7 +823,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "Sparkel.jpg"
+      "imagen": "Sparkel.jpg",
+      "owner": "admin"
     },
     {
       "id": 60,
@@ -778,7 +837,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "SlimGradient.jpg"
+      "imagen": "SlimGradient.jpg",
+      "owner": "admin"
     },
     {
       "id": 61,
@@ -791,7 +851,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "YouSntrop.jpg"
+      "imagen": "YouSntrop.jpg",
+      "owner": "admin"
     },
     {
       "id": 62,
@@ -804,7 +865,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "SlimPalette.jpg"
+      "imagen": "SlimPalette.jpg",
+      "owner": "admin"
     },
     {
       "id": 63,
@@ -817,7 +879,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "m",
-      "imagen": "HighPlataformas.jpg"
+      "imagen": "HighPlataformas.jpg",
+      "owner": "admin"
     },
     {
       "id": 64,
@@ -830,7 +893,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "n",
-      "imagen": "Flores.jpg"
+      "imagen": "Flores.jpg",
+      "owner": "admin"
     },
     {
       "id": 65,
@@ -843,7 +907,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "n",
-      "imagen": "Princesas.jpg"
+      "imagen": "Princesas.jpg",
+      "owner": "admin"
     },
     {
       "id": 66,
@@ -856,7 +921,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "n",
-      "imagen": "Athleta.jpg"
+      "imagen": "Athleta.jpg",
+      "owner": "admin"
     },
     {
       "id": 67,
@@ -869,7 +935,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "n",
-      "imagen": "SlimBrillo.jpg"
+      "imagen": "SlimBrillo.jpg",
+      "owner": "admin"
     },
     {
       "id": 68,
@@ -882,7 +949,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "n",
-      "imagen": "Max.jpg"
+      "imagen": "Max.jpg",
+      "owner": "admin"
     },
     {
       "id": 69,
@@ -895,7 +963,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "n",
-      "imagen": "MaxHeroes.jpg"
+      "imagen": "MaxHeroes.jpg",
+      "owner": "admin"
     },
     {
       "id": 70,
@@ -908,7 +977,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "n",
-      "imagen": "Kitty.jpg"
+      "imagen": "Kitty.jpg",
+      "owner": "admin"
     },
     {
       "id": 71,
@@ -921,7 +991,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "n",
-      "imagen": "BBDisney.jpg"
+      "imagen": "BBDisney.jpg",
+      "owner": "admin"
     },
     {
       "id": 72,
@@ -934,7 +1005,8 @@
       "marca": "havaianas",
       "categoria": "ojota",
       "demografia": "n",
-      "imagen": "BBLiquidacion.jpg"
+      "imagen": "BBLiquidacion.jpg",
+      "owner": "admin"
     },
     {
       "id": 73,
@@ -947,7 +1019,8 @@
       "marca": "UB",
       "categoria": "ropa",
       "demografia": "h",
-      "imagen": "JogingVerano.jpg"
+      "imagen": "JogingVerano.jpg",
+      "owner": "admin"
     },
     {
       "id": 74,
@@ -960,7 +1033,8 @@
       "marca": "UB",
       "categoria": "ropa",
       "demografia": "h",
-      "imagen": "JogingInvierno.jpg"
+      "imagen": "JogingInvierno.jpg",
+      "owner": "admin"
     },
     {
       "id": 75,
@@ -973,7 +1047,8 @@
       "marca": "UB",
       "categoria": "ropa",
       "demografia": "h",
-      "imagen": "ShortRustico.jpg"
+      "imagen": "ShortRustico.jpg",
+      "owner": "admin"
     },
     {
       "id": 76,
@@ -986,7 +1061,8 @@
       "marca": "UB",
       "categoria": "ropa",
       "demografia": "h",
-      "imagen": "ShortBano.jpg"
+      "imagen": "ShortBano.jpg",
+      "owner": "admin"
     },
     {
       "id": 77,
@@ -999,7 +1075,8 @@
       "marca": "UB",
       "categoria": "ropa",
       "demografia": "h",
-      "imagen": "Cargo.jpg"
+      "imagen": "Cargo.jpg",
+      "owner": "admin"
     },
     {
       "id": 78,
@@ -1012,7 +1089,8 @@
       "marca": "UB",
       "categoria": "ropa",
       "demografia": "h",
-      "imagen": "Remera.jpg"
+      "imagen": "Remera.jpg",
+      "owner": "admin"
     },
     {
       "id": 79,
@@ -1025,7 +1103,8 @@
       "marca": "UB",
       "categoria": "ropa",
       "demografia": "h",
-      "imagen": "Buzo.jpg"
+      "imagen": "Buzo.jpg",
+      "owner": "admin"
     },
     {
       "id": 80,
@@ -1038,7 +1117,8 @@
       "marca": "UB",
       "categoria": "ropa",
       "demografia": "h",
-      "imagen": "Canguro.jpg"
+      "imagen": "Canguro.jpg",
+      "owner": "admin"
     },
     {
       "id": 81,
@@ -1051,7 +1131,8 @@
       "marca": "UB",
       "categoria": "ropa",
       "demografia": "h",
-      "imagen": "Campera.jpg"
+      "imagen": "Campera.jpg",
+      "owner": "admin"
     },
     {
       "id": 82,
@@ -1064,7 +1145,8 @@
       "marca": "indeterminado",
       "categoria": "accesorio",
       "demografia": "u",
-      "imagen": "Billetera.jpg"
+      "imagen": "Billetera.jpg",
+      "owner": "admin"
     },
     {
       "id": 83,
@@ -1077,7 +1159,8 @@
       "marca": "indeterminado",
       "categoria": "accesorio",
       "demografia": "u",
-      "imagen": "Rinonera.jpg"
+      "imagen": "Rinonera.jpg",
+      "owner": "admin"
     },
     {
       "id": 84,
@@ -1090,7 +1173,8 @@
       "marca": "indeterminado",
       "categoria": "accesorio",
       "demografia": "u",
-      "imagen": "Morrales.jpg"
+      "imagen": "Morrales.jpg",
+      "owner": "admin"
     }
   ]
 }

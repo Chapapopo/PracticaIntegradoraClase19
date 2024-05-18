@@ -58,6 +58,11 @@ const productoSchema = new mongoose.Schema({
     imagen: {
         type: String,
         required: false,
+    },
+    owner:{
+        type: String,
+        default: "admin",
+        required: true,
     }
 });
 ;

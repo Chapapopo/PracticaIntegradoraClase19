@@ -8,6 +8,7 @@ const registerController = {};
 registerController.createUser = async (req, res, next) => {
   try {
     const { name, lastName, email, password, age } = req.body;
+    console.log("hola")
 
     // Hash del password
     const hashedPassword = await bcrypt.hash(password, 10);

@@ -15,6 +15,7 @@ import Users from './model/user.model.js'; // Importa el modelo User
 import { productosRoutes, cartRoutes, currentRoutes, authRoutes, logRoutes, loginRoutes, registerRoutes, logoutRoutes, Routes, chatRoutes, makeRoutes, mockingRoutes } from './routes/index.js';
 import Message from './model/message.model.js'; // Importa el modelo Message
 import winston from "winston";
+import passwordResetRoutes from './routes/passwordReset.Routes.js';
 
 config();//
 
@@ -189,6 +190,7 @@ app.use('/logout', logoutRoutes);
 app.use('/chat', chatRoutes);
 app.use('/make', makeRoutes);
 app.use('/mocking', mockingRoutes);
+app.use('/password-reset', passwordResetRoutes); //
 
 // Configurar Socket.io
 io.on('connection', (socket) => {

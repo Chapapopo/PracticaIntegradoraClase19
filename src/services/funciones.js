@@ -131,7 +131,8 @@ export const searchProductsPorId2 = async (idProducto) => {
             marca: producto.marca,
             categoria: producto.categoria,
             demografia: producto.demografia,
-            imagen: producto.imagen
+            imagen: producto.imagen,
+            owner: producto.owner
         };
 
         // Retornar el producto encontrado en formato JavaScript.
@@ -449,6 +450,30 @@ export const ensureAdmin = (req, res, next) => {
     }
 };
 
+//Middleware para asegurar que el usuario esté autenticado como administrador.
+export const ensurePremium = (req, res, next) => {
+    // Verificar si el usuario está autenticado y tiene el rol de "admin"
+    if (req.isAuthenticated() && req.user.rol === 'premium') {
+        // Si el usuario está autenticado y es administrador, continuar
+        return next();
+    } else {
+        // Si el usuario no está autenticado, redirigir al login
+        res.redirect('/log');
+    }
+};
+
+// Middleware para asegurar que el usuario esté autenticado como premium o Admin.
+export const ensureAdminPremium = (req, res, next) => {
+    // Verificar si el usuario está autenticado y tiene el rol de "admin"
+    if (req.isAuthenticated() && req.user.rol === 'premium'|| req.user.rol === 'admin') {
+        // Si el usuario está autenticado y es administrador, continuar
+        return next();
+    } else {
+        // Si el usuario no está autenticado, redirigir al login
+        res.redirect('/log');
+    }
+};
+
 //Crea un nuevo ticket de compra en la base de datos.
 export const crearTiket = async (costo, correo) => {
     try {
@@ -636,7 +661,8 @@ export const cargarProducto = async (producto) => {
                 marca: producto.marca,
                 categoria: producto.categoria,
                 demografia: producto.demografia,
-                imagen: producto.imagen
+                imagen: producto.imagen,
+                owner: producto.owner
             });
             await nuevoProducto.save();
             console.log(`Producto con id ${nuevoId} cargado a Atlas.`);

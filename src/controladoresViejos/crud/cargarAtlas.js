@@ -1,11 +1,11 @@
-import '../../connection.js'; // Importa el archivo de conexión
+import '../../utilities/connection.js'; // Importa el archivo de conexión
 import fs from 'fs';
-import Product from '../model/producto.model.js'; // Importa el modelo Product
+import Product from '../../model/producto.model.js'; // Importa el modelo Product
 
 const cargarAtlas = async () => {
     let contador = 0;
     try {
-        const data = fs.readFileSync('./src/dao/productos.json', 'utf8');
+        const data = fs.readFileSync('./src/controladoresViejos/productos.json', 'utf8');
         const jsonData = JSON.parse(data);
         const products = jsonData.productos;
 
